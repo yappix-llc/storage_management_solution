@@ -11,13 +11,13 @@ const config: Config = {
   	extend: {
   		colors: {
   			brand: {
-  				'100': '#EA6365',
-  				DEFAULT: '#FA7275'
+  				'100': '#0f172a',
+  				DEFAULT: '#0f172a'
   			},
   			red: '#FF7474',
   			error: '#b80000',
-  			green: '#3DD9B3',
-  			blue: '#56B8FF',
+  			green: '#77F4B2',
+  			blue: '#2F89FC',
   			pink: '#EEA8FD',
   			orange: '#F9AB72',
   			light: {
@@ -27,8 +27,8 @@ const config: Config = {
   				'400': '#F2F4F8'
   			},
   			dark: {
-  				'100': '#04050C',
-  				'200': '#131524'
+  				'100': '#0f172a',
+  				'200': '#00204A'
   			},
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
